@@ -1,1 +1,1 @@
-lib11-mesa-g1x
+libl1-mesa-glx
