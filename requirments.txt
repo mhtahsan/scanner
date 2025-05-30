@@ -1,0 +1,7 @@
+fpdf
+opencv-python
+streamlit
+numpy
+pillow
+reportlab
+scikit-image

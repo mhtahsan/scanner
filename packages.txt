@@ -1,7 +1,1 @@
-fpdf
-opencv-python
-streamlit
-numpy
-pillow
-reportlab
-scikit-image
+lib11-mesa-g1x
